@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "79131178662",
+    "firebase_url": "https://pong-b0e0a.firebaseio.com",
+    "project_id": "pong-b0e0a",
+    "storage_bucket": "pong-b0e0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79131178662:android:5508ac9ef66148d1",
+        "android_client_info": {
+          "package_name": "com.ghost.pong"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79131178662-5p1lrpant859dpa21l1fda5q5n62j1o3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtnBeenCwLtWyKRbCJ_uMEAWwWrkuNzR0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
